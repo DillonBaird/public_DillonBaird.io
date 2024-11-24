@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking on DillonBaird.io</title>
-    <link>https://DillonBaird.io/tags/networking/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/networking/</link>
     <description>Recent content in Networking on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-WAN Bonding with OpenMPTCProuter</title>
-      <link>https://DillonBaird.io/articles/mptcpbonding/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/articles/mptcpbonding/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</guid>
       <description>&lt;p&gt;Unlike other solutions that claim to aggregate connections, Multi-Path TCP (MPTCP) actually does. See how I accomplished this using 2 Starlink terminals and multiple cellular hotspots&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Clockwork OrangePi - Creating A Stratum-1 NTP Server</title>
-      <link>https://DillonBaird.io/articles/stratum-1/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/stratum-1/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/articles/stratum-1/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/stratum-1/</guid>
       <description>&lt;!-- ## Understanding Time Synchronization
 
 Time synchronization is a fundamental aspect of modern computing and digital communication. It&#39;s the process of coordinating the clocks of multiple devices to the same time. But why is it so important, and how does it work? Let&#39;s delve deeper into the fascinating world of time synchronization.
@@ -68,10 +68,10 @@ In conclusion, time synchronization is a fundamental aspect of our digital world
     
     <item>
       <title>Cracking Ethernet’s MTU Mystery</title>
-      <link>https://DillonBaird.io/articles/why-is-mtu-1500/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/articles/why-is-mtu-1500/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</guid>
       <description>&lt;p&gt;Dive into a digital detective story that unravels the enigmatic choice of Ethernet&amp;rsquo;s 1500-byte MTU and how 1500 became the MTU of the internet.&lt;/p&gt;</description>
     </item>
     

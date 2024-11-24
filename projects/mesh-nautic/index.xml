@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albatross on DillonBaird.io</title>
-    <link>https://DillonBaird.io/projects/mesh-nautic/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/projects/mesh-nautic/</link>
     <description>Recent content in Albatross on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/projects/mesh-nautic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/projects/mesh-nautic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>overview</title>
-      <link>https://DillonBaird.io/projects/active/mesh-nautic/overview/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/projects/active/mesh-nautic/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/projects/active/mesh-nautic/overview/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/projects/active/mesh-nautic/overview/</guid>
       <description>This is some sample overview text; if you can read this, it&amp;rsquo;s being linked to correctly, good job! Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Nec dui nunc mattis enim. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Feugiat pretium nibh ipsum consequat nisl vel. Ut sem viverra aliquet eget sit amet. Proin sed libero enim sed faucibus turpis in eu. Eu non diam phasellus vestibulum lorem sed risus ultricies.</description>
     </item>
     
     <item>
       <title>research</title>
-      <link>https://DillonBaird.io/projects/active/mesh-nautic/research/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/projects/active/mesh-nautic/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/projects/active/mesh-nautic/research/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/projects/active/mesh-nautic/research/</guid>
       <description>This is some sample overview text; if you can read this, it&amp;rsquo;s being linked to correctly, good job! Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Nec dui nunc mattis enim. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Feugiat pretium nibh ipsum consequat nisl vel. Ut sem viverra aliquet eget sit amet. Proin sed libero enim sed faucibus turpis in eu. Eu non diam phasellus vestibulum lorem sed risus ultricies.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DALL·E on DillonBaird.io</title>
-    <link>https://DillonBaird.io/tags/dalle/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/dalle/</link>
     <description>Recent content in DALL·E on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/dalle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/dalle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Dive into the Digital Artistry Revolution with DALL·E</title>
-      <link>https://DillonBaird.io/blog/ai-wallpapers/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/ai-wallpapers/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</guid>
       <description>If you&amp;rsquo;ve ever ventured through any of my blog in the past, you might have noticed the original and unique images — from the whimsically quirky to the ethereally abstract — that I use to pepper my articles. Allow me to introduce you to the mastermind: DALL·E, a marvel from OpenAI&amp;rsquo;s labs. This neural network isn&amp;rsquo;t just another tool; it&amp;rsquo;s a digital maestro, synthesizing visuals from mere textual descriptions. It&amp;rsquo;s the fusion of code, creativity, and a hint of AI magic that brings those intriguing images to life on my site.</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retro on DillonBaird.io</title>
-    <link>https://DillonBaird.io/tags/retro/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/retro/</link>
     <description>Recent content in Retro on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Access 95 - The Atrocity That Taught Me About Relational Databases</title>
-      <link>https://DillonBaird.io/blog/msaccess/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/msaccess/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</guid>
       <description>&lt;p&gt;In the realm of retro software, Microsoft Access for Windows 95 holds a special place in my heart. It may seem surprising, but this clunky yet somehow elegant application played a pivotal role in shaping my understanding of relational databases and kickstarting my career in software development. Let me take you on a journey back to the days of Windows 95, when I first crossed paths with Access.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>How A Tandy 1000 RSX Kickstarted My Career In Software Development</title>
-      <link>https://DillonBaird.io/blog/startingwithtandy/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/startingwithtandy/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</guid>
       <description>&lt;p&gt;It was 1996 and I was 5 years old in Silicon Valley, in the prime of computer surplus. I just pressed that big beautiful red power button on my newly acquired Tandy 1000 RSX someone just so happened to be throwing away down the street (a fairly regular occurrence with computer hardware at the time).&lt;/p&gt;</description>
     </item>
     

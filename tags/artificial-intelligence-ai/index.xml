@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence (AI) on DillonBaird.io</title>
-    <link>https://DillonBaird.io/tags/artificial-intelligence-ai/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/artificial-intelligence-ai/</link>
     <description>Recent content in Artificial Intelligence (AI) on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/artificial-intelligence-ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/artificial-intelligence-ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ollama Unleashed: The DIY LLM Powerhouse on Your Local Machine</title>
-      <link>https://DillonBaird.io/blog/ollama/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ollama/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/ollama/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ollama/</guid>
       <description>&lt;p&gt;Large language models (LLMs) are powerful tools, but running them on your own can be a challenge. &lt;strong&gt;Ollama&lt;/strong&gt; simplifies this process, allowing you to run these advanced models directly on your local machine, without the need for expensive cloud services or specialized hardware. With Ollama, you gain complete control over your AI tools. Customize them to your specific needs and experiment freely without worrying about high costs. Plus, you can break free from reliance on cloud providers.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Embracing the Illusion: Our Desire to Humanize AI, and Its Consequences</title>
-      <link>https://DillonBaird.io/blog/embracing-the-illusion/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/embracing-the-illusion/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</guid>
       <description>As I explore the world of AI, I sometimes find myself in a role I didn&amp;rsquo;t expect: part-digital therapist, part-coach. It was surprising to see how these AI systems at first seemed to react to encouragement or feedback, similar to coaching a talented athlete. This experience was more than just learning about what AI can do. It was a window into our innate desire as social beings to connect with and humanize our technological creations, no matter how sophisticated their underlying code may be.</description>
     </item>
     
     <item>
       <title>Echoes of a Digital Dawn - A Poetic Ode to our Tech-Paced Life</title>
-      <link>https://DillonBaird.io/blog/echoes-of-a-digital-dawn/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/echoes-of-a-digital-dawn/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/echoes-of-a-digital-dawn/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/echoes-of-a-digital-dawn/</guid>
       <description>In &amp;ldquo;Echoes of a Digital Dawn,&amp;rdquo; I explore the evolution of technology and its impact on creativity. It&amp;rsquo;s a nostalgic journey from the simplicity of MS Paint to today&amp;rsquo;s AI-driven world. The poem contrasts the patience of the early digital era with the instant gratification of the present. It reminisces about dial-up tones and floppy disks, reflecting on how these elements shaped our experiences. The poem underscores the importance of the human touch amidst technology&amp;rsquo;s rapid advancement, advocating for a balance between digital progress and the creative spirit.</description>
     </item>
     
     <item>
       <title>A Dive into the Digital Artistry Revolution with DALL·E</title>
-      <link>https://DillonBaird.io/blog/ai-wallpapers/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/ai-wallpapers/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</guid>
       <description>If you&amp;rsquo;ve ever ventured through any of my blog in the past, you might have noticed the original and unique images — from the whimsically quirky to the ethereally abstract — that I use to pepper my articles. Allow me to introduce you to the mastermind: DALL·E, a marvel from OpenAI&amp;rsquo;s labs. This neural network isn&amp;rsquo;t just another tool; it&amp;rsquo;s a digital maestro, synthesizing visuals from mere textual descriptions. It&amp;rsquo;s the fusion of code, creativity, and a hint of AI magic that brings those intriguing images to life on my site.</description>
     </item>
     
     <item>
       <title>Solo, Not Siloed: Navigating the AI Frontier in Development</title>
-      <link>https://DillonBaird.io/blog/solo-not-siloed/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/solo-not-siloed/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</guid>
       <description>The world of coding often paints a picture of intense late-night debugging sessions, relentless coding marathons, and the unparalleled joy of a successful deployment. My journey began in the cocoon of solitude, where every line of code was a tango between imagination and logic, often with only my trusty rubber duck as a confidant. However, as I honed my craft, I seamlessly transitioned into larger, team-based roles. Taking on the mantle of a Software Engineering Lead, I found my stride, collaborating with a dynamic team of professionals.</description>
     </item>
     
     <item>
       <title>Letting Machines Do The Writing: How ChatGPT Helped Me Become A PR &#34;Pro&#34;</title>
-      <link>https://DillonBaird.io/blog/chatgpt/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/chatgpt/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</guid>
       <description>I recently just learned about ChatGPT and GPT-3, two powerful Artificial Intelligence technology tools. And I&amp;rsquo;m incredibly impressed with what it can do. I wanted to try using it for something that was outside of my usual skillset as a software developer, so I decided to use ChatGPT on my website to generate press releases about recent projects or milestone events. Before this project, the thought of writing a press release had never crossed my mind – not because I didn&amp;rsquo;t want to but because it&amp;rsquo;s usually not something developers are expected to have skills in.</description>
     </item>
     

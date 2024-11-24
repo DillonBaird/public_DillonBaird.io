@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swift on DillonBaird.io</title>
-    <link>https://DillonBaird.io/tags/swift/</link>
+    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/swift/</link>
     <description>Recent content in Swift on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/swift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Developer&#39;s Journey With Spacial Computing</title>
-      <link>https://DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
+      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
+      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
       <description>When I first slid on the Apple Vision Pro, I was bracing myself for another overhyped gadget. Instead, what I encountered was a transformative leap into the future of digital interaction. This wasn&amp;rsquo;t merely a high-tech toy; it was a tool that seamlessly wove itself into my daily coding rituals, shattering my preconceived limits of what technology could achieve. From that moment, I was hooked—immersed in a mixed reality that felt both groundbreaking and surprisingly intuitive.</description>
     </item>
     
