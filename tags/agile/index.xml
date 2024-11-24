@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/agile/</link>
+    <description>Recent content in Agile on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Software Development: Taming the Chaos (or Just Adding More?)</title>
+      <link>https://DillonBaird.io/blog/agile/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/agile/</guid>
+      <description>&lt;p&gt;As a seasoned software engineer (and fellow survivor of the code trenches), I&amp;rsquo;m sure you&amp;rsquo;ve seen development methodologies come and go. We all remember the rigid, documentation-heavy days of Waterfall, where a project plan was etched in stone like the Ten Commandments, and any change required an act of Congress.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

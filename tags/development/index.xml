@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/development/</link>
+    <description>Recent content in Development on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Custom 404 Error Pages with Cloudflare Workers</title>
+      <link>https://DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</guid>
+      <description>&lt;p&gt;Ever had one of those days where nothing seems to go right? You’re trying to make your website perfect, but instead, it’s like the universe is playing a cruel joke on you. That was me recently, tangled in a web (pun intended) of frustrations while trying to set up a custom 404 error page for my website. Hosted with Docker and NGINX, my site stubbornly displayed the default NGINX &amp;lsquo;Page Not Found&amp;rsquo; message instead of my sleek, custom 404 page. After countless failed attempts to fix it, I decided to call in reinforcements—Cloudflare Workers. If you’re nodding your head in sympathy, keep reading. This post is for you.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Resurgence of Static Sites: Why Hugo Powers My Blog</title>
+      <link>https://DillonBaird.io/blog/resurgence-of-static-site-generators/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/resurgence-of-static-site-generators/</guid>
+      <description>Amidst the ever-evolving landscape of web development, where complexity often overshadows the essential goals of efficiency, security, and scalability, static site generators (SSGs) emerge as pillars of simplicity. These powerful tools are not only rejuvenating our approach to website creation but are also guiding us toward more sustainable, manageable, and high-performance web solutions. Embark on a comprehensive exploration of SSGs, uncovering their revival, robust security features, and ingenious ways they accommodate dynamic content capabilities.</description>
+    </item>
+    
+    <item>
+      <title>A Developer&#39;s Journey With Spacial Computing</title>
+      <link>https://DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
+      <description>When I first slid on the Apple Vision Pro, I was bracing myself for another overhyped gadget. Instead, what I encountered was a transformative leap into the future of digital interaction. This wasn&amp;rsquo;t merely a high-tech toy; it was a tool that seamlessly wove itself into my daily coding rituals, shattering my preconceived limits of what technology could achieve. From that moment, I was hooked—immersed in a mixed reality that felt both groundbreaking and surprisingly intuitive.</description>
+    </item>
+    
+    <item>
+      <title>The Inside Scoop on Pixel Tracking and the Birth of NanoTrack</title>
+      <link>https://DillonBaird.io/blog/nanotrack/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/nanotrack/</guid>
+      <description>In the ever-evolving digital landscape, the unveiling of invisible technologies like pixel tracking has sparked conversations about privacy, ethics, and the invisible threads connecting our online interactions. Each click, every opened email, and every page browsed, weaves into a rich mosaic of data exchange. As we embark on this exploration, the creation of NanoTrack emerges as a pivotal moment in rethinking how we navigate the complex web of digital analytics.</description>
+    </item>
+    
+    <item>
+      <title>Web Accessibility: More than A Lighthouse Score</title>
+      <link>https://DillonBaird.io/blog/the-accessible-web/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/the-accessible-web/</guid>
+      <description>&lt;p&gt;Web accessibility&amp;hellip; kinda like fitness, right? Everybody knows it matters, but too many folks think they&amp;rsquo;re golden just because they&amp;rsquo;ve got a fancy fitness tracker and hit their 10,000 steps a few times a week. Newsflash: that&amp;rsquo;s not gonna cut it, and neither will a perfect Lighthouse score or a shiny new overlay tool.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been around the web dev block a few times, and it seems like everyone&amp;rsquo;s obsessed with these quick fixes&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coding Across Borders: My Syntax-Agnostic Adventure in Tech</title>
+      <link>https://DillonBaird.io/blog/syntax-agnostic/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/syntax-agnostic/</guid>
+      <description>Embarking on a coding journey is akin to setting sail across uncharted digital waters. My odyssey began with a modest Tandy 1000, leading me through a dynamic array of programming languages, each sculpting my perception of the technological realm. I invite you to join me on this exhilarating expedition as I recount how embracing syntax agnosticism has been pivotal in my growth and versatility amidst the continuously transforming world of software development.</description>
+    </item>
+    
+    <item>
+      <title>Why User-Centric Design Makes You A Better Developer (and Boosts ROI)</title>
+      <link>https://DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve all been there. You&amp;rsquo;re staring at a screen filled with code, lines blurring together like a caffeinated fever dream. You&amp;rsquo;re building this amazing new software, but a nagging question worms its way in:  &amp;ldquo;Would I actually use this thing?&amp;rdquo; More often than not, the answer is a resounding &amp;ldquo;meh&amp;rdquo;. The result? Software that feels like a chore to navigate, an instruction manual masquerading as a user interface. It functions, sure, but with all the personality of a beige office chair.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Software Development: Taming the Chaos (or Just Adding More?)</title>
+      <link>https://DillonBaird.io/blog/agile/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/agile/</guid>
+      <description>&lt;p&gt;As a seasoned software engineer (and fellow survivor of the code trenches), I&amp;rsquo;m sure you&amp;rsquo;ve seen development methodologies come and go. We all remember the rigid, documentation-heavy days of Waterfall, where a project plan was etched in stone like the Ten Commandments, and any change required an act of Congress.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solo, Not Siloed: Navigating the AI Frontier in Development</title>
+      <link>https://DillonBaird.io/blog/solo-not-siloed/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/solo-not-siloed/</guid>
+      <description>The world of coding often paints a picture of intense late-night debugging sessions, relentless coding marathons, and the unparalleled joy of a successful deployment. My journey began in the cocoon of solitude, where every line of code was a tango between imagination and logic, often with only my trusty rubber duck as a confidant. However, as I honed my craft, I seamlessly transitioned into larger, team-based roles. Taking on the mantle of a Software Engineering Lead, I found my stride, collaborating with a dynamic team of professionals.</description>
+    </item>
+    
+    <item>
+      <title>Recreating the SpaceX Crew Dragon UI in 60 Days</title>
+      <link>https://DillonBaird.io/articles/mutantdragon/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/mutantdragon/</guid>
+      <description>&lt;p&gt;One developer’s challenge to recreate a conceptual UI/software stack and/with a hardware simulator for the 
+&lt;a href=&#34;https://www.spacex.com/vehicles/dragon/&#34; target=&#34;_blank&#34;&gt;Crew Dragon&lt;/a&gt;
+, in 60 days.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

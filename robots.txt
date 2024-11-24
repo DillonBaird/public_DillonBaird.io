@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /projects/mesh-nautic/
+Disallow: /contact/thankyou/
+Disallow: /contact/thankyou2/
+Disallow: /projects/active/
+Disallow: /projects/backlog/
+Disallow: /projects/completed/
+Disallow: /projects/hold/sea-ng/parts/1/
+Disallow: /projects/hold/
+Disallow: /projects/active/mesh-nautic/overview/
+Disallow: /projects/hold/sea-ng/overview/
+Disallow: /projects/active/mesh-nautic/research/
+Disallow: /projects/hold/sea-ng/research/
+Sitemap: https://DillonBaird.io/sitemap.xml

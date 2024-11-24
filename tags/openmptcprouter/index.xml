@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenMPTCProuter on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/openmptcprouter/</link>
+    <description>Recent content in OpenMPTCProuter on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/openmptcprouter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-WAN Bonding with OpenMPTCProuter</title>
+      <link>https://DillonBaird.io/articles/mptcpbonding/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/mptcpbonding/</guid>
+      <description>&lt;p&gt;Unlike other solutions that claim to aggregate connections, Multi-Path TCP (MPTCP) actually does. See how I accomplished this using 2 Starlink terminals and multiple cellular hotspots&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

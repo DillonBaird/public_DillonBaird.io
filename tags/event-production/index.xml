@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Production on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/event-production/</link>
+    <description>Recent content in Event Production on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/event-production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the Security Challenges in Event Lighting</title>
+      <link>https://DillonBaird.io/articles/exploitingdmx/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/exploitingdmx/</guid>
+      <description>&lt;p&gt;Explore the intricacies of event lighting protocols, uncover hidden vulnerabilities, and learn best practices to ensure robust security in event productions.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

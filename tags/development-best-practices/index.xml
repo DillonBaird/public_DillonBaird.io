@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Best Practices on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/development-best-practices/</link>
+    <description>Recent content in Development Best Practices on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2024 07:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/development-best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Best Practices Aren&#39;t Always Best: Pragmatic Coding</title>
+      <link>https://DillonBaird.io/blog/best-practices-arent-always-best/</link>
+      <pubDate>Wed, 24 Apr 2024 07:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/best-practices-arent-always-best/</guid>
+      <description>I’ve encountered countless scenarios where sticking rigidly to best practices wasn’t the optimal path. These experiences have underscored the value of flexibility and its critical role in navigating complex software environments. Today, I&amp;rsquo;m eager to share insights on when to adhere to these practices and when deviating can enhance innovation and ensure project success. This guide explores how adopting a more adaptable approach can enhance team dynamics and improve project outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Web Accessibility: More than A Lighthouse Score</title>
+      <link>https://DillonBaird.io/blog/the-accessible-web/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/the-accessible-web/</guid>
+      <description>&lt;p&gt;Web accessibility&amp;hellip; kinda like fitness, right? Everybody knows it matters, but too many folks think they&amp;rsquo;re golden just because they&amp;rsquo;ve got a fancy fitness tracker and hit their 10,000 steps a few times a week. Newsflash: that&amp;rsquo;s not gonna cut it, and neither will a perfect Lighthouse score or a shiny new overlay tool.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been around the web dev block a few times, and it seems like everyone&amp;rsquo;s obsessed with these quick fixes&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Software Development: Taming the Chaos (or Just Adding More?)</title>
+      <link>https://DillonBaird.io/blog/agile/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/agile/</guid>
+      <description>&lt;p&gt;As a seasoned software engineer (and fellow survivor of the code trenches), I&amp;rsquo;m sure you&amp;rsquo;ve seen development methodologies come and go. We all remember the rigid, documentation-heavy days of Waterfall, where a project plan was etched in stone like the Ten Commandments, and any change required an act of Congress.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NoJS: Stop Using JavaScript When You Don&#39;t Need To</title>
+      <link>https://DillonBaird.io/blog/nojs/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/nojs/</guid>
+      <description>Ah, JavaScript! It&amp;rsquo;s the dazzling star of the web development world, capable of transforming static pages into interactive wonders. But have you ever found yourself tangled in lines of JavaScript code, only to realize that you might be overcomplicating things? You&amp;rsquo;re not alone. In our pursuit of dynamic and engaging websites, we often reach for JavaScript—even when we don&amp;rsquo;t need to. In this article, we&amp;rsquo;ll explore the art of minimalism in web development, emphasizing the power of HTML and CSS, and learning when to say &amp;ldquo;No&amp;rdquo; to JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

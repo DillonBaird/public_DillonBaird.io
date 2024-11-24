@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/languages/</link>
+    <description>Recent content in Languages on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Across Borders: My Syntax-Agnostic Adventure in Tech</title>
+      <link>https://DillonBaird.io/blog/syntax-agnostic/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/syntax-agnostic/</guid>
+      <description>Embarking on a coding journey is akin to setting sail across uncharted digital waters. My odyssey began with a modest Tandy 1000, leading me through a dynamic array of programming languages, each sculpting my perception of the technological realm. I invite you to join me on this exhilarating expedition as I recount how embracing syntax agnosticism has been pivotal in my growth and versatility amidst the continuously transforming world of software development.</description>
+    </item>
+    
+  </channel>
+</rss>

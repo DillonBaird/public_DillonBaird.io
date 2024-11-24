@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPS on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/gps/</link>
+    <description>Recent content in GPS on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/gps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clockwork OrangePi - Creating A Stratum-1 NTP Server</title>
+      <link>https://DillonBaird.io/articles/stratum-1/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/stratum-1/</guid>
+      <description>&lt;!-- ## Understanding Time Synchronization
+
+Time synchronization is a fundamental aspect of modern computing and digital communication. It&#39;s the process of coordinating the clocks of multiple devices to the same time. But why is it so important, and how does it work? Let&#39;s delve deeper into the fascinating world of time synchronization.
+
+### The Importance of Time Synchronization
+
+In the digital world, time is more than just hours, minutes, and seconds. It&#39;s a crucial component that ensures the smooth operation of various systems and technologies. Here&#39;s why time synchronization is so important:
+
+- **Data Consistency**: In distributed systems, where data is stored across multiple devices, time synchronization ensures that all actions are performed in the correct order. This is crucial for maintaining data consistency and integrity.
+
+- **Event Sequencing**: Time synchronization allows for accurate event sequencing. This is particularly important in fields like financial trading, where transactions occurring in the wrong order can have significant implications.
+
+- **Network Security**: Many security protocols rely on time stamps to prevent replay attacks, where a malicious actor fraudulently delays or repeats a valid data transmission.
+
+- **Log Management**: In network troubleshooting and incident response, synchronized time stamps on logs can help identify when and how an issue occurred.
+
+### How Time Synchronization Works
+
+Time synchronization is achieved through protocols like Network Time Protocol (NTP). These protocols use a hierarchical system of time sources, with each level referred to as a &#39;stratum.&#39; At the top (Stratum 0) are highly accurate time sources like atomic clocks. These feed time to Stratum 1 servers (also known as time servers), which in turn distribute time to lower stratum devices.
+
+Here&#39;s a simplified view of how NTP synchronization works:
+
+1. A device (client) sends a request to an NTP server to know the current time.
+
+2. The server receives the request and sends back a packet with its timestamp.
+
+3. The client receives the packet and adjusts its clock to match the server&#39;s time, accounting for network latency.
+
+### Time Synchronization in Various Technologies
+
+Time synchronization plays a vital role in a wide range of technologies:
+
+- **Telecommunications**: Telecommunication networks rely on precise time synchronization for call routing, billing, and other functions.
+
+- **Internet of Things (IoT)**: In IoT networks, synchronized time is crucial for coordinating actions between devices and ensuring accurate data logging.
+
+- **GPS**: The Global Positioning System (GPS) relies on highly accurate time synchronization to provide precise location data.
+
+- **Computer Networks**: In computer networks, time synchronization is essential for managing data transmission, network security, and system diagnostics.
+
+In conclusion, time synchronization is a fundamental aspect of our digital world, underpinning the operation of various systems and technologies. By building your own Stratum-1 NTP server, you&#39;re not just harnessing the power of time—you&#39;re becoming an active participant in this intricate dance of synchronization. --&gt;
+&lt;p&gt;Learn how to build a self-reliant, hyper-accurate NTP server, which we&amp;rsquo;ll lovingly call &amp;ldquo;Clockwork OrangePi,&amp;rdquo; using an OrangePi Zero LTS and GPS. This guide is perfect for those living an off-grid lifestyle and need precise time synchronization for their systems.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

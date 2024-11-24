@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber Security on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/cyber-security/</link>
+    <description>Recent content in Cyber Security on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hidden Dangers of IoT: Shadow Devices</title>
+      <link>https://DillonBaird.io/blog/shadowiot/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/shadowiot/</guid>
+      <description>Ah, the Internet of Things (IoT)! A realm where your fridge chats with your grocery store and traffic lights gossip with GPS systems to streamline your commute. But lurking behind these conveniences is a less talked about, somewhat sneaky phenomenon: The Shadow IoT. As someone who&amp;rsquo;s spent decades probing, testing, and sometimes breaking into systems (ethically, of course), I&amp;rsquo;ve seen firsthand how the rapid proliferation of IoT devices has reshaped the cybersecurity landscape.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Security Challenges in Event Lighting</title>
+      <link>https://DillonBaird.io/articles/exploitingdmx/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/exploitingdmx/</guid>
+      <description>&lt;p&gt;Explore the intricacies of event lighting protocols, uncover hidden vulnerabilities, and learn best practices to ensure robust security in event productions.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

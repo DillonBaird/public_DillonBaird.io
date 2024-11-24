@@ -1,0 +1,25 @@
+████▄ j█▌ ██    █▌    ▓███▄ ▐██ j█ j████▄   ██▓  ▐█⌐ ████▄ j████▄    j█▌ ▄███▌
+█▌ ▐█▌j█▌ ██    █▌   ▐█▌ ╫█ ▐██▌j█─j█▌ ▐█b ▐█▓█  ▐█⌐ █▌ ▐█─j█▌ ╫█─   j█▌ █▌ j█▌
+█▌ ╞█▌j█▌ ██    █▌   ▐█▌ ╫█─▐█└█▐█─j██▓██  ▓█ █▌ ▐█⌐ ██▄██ j█▌ ▐█─   j█▌ █▌ j█▌
+█▌ ╞█▌j█▌ ██    █▌   ▐█▌ ╫█─▐█ ███─j█▌ ╙█▌ █▌ ██ ▐█⌐ █▌ ▓█ j█▌ ▐█─   j█▌ █▌ j█▌
+█▌ ╫█Γj█▌ ██    █▌   ▐█▌ ██ ▐█  ██─j█▌ ▐█▌▐█▀▀██ ▐█⌐ █▌ ▐█─j█▌ ▓█  , j█▌ ██ ▐█▌
+▀▀▀▀╙  ▀▀ ▀▀▀▀▀ ▀▀▀▀▀ ╙▀▀▀` └▀  ╙▀  ▀▀▀▀╙ ╨▀   ▀Γ└▀  ▀▀ └▀¬ ▀▀▀▀` └▀  ▀Γ └▀▀▀▀
+
+This site is statically generated using Hugo and uses zero javascript in the UI. Yes that's right, everything you see, all UI behavior, all clickable actions, all effects, are ALL created using pure CSS & HTML. Seriously, go ahead and disable javascript and reload the site; everything still works the same. The only javascript included is some custom/anonymous analytic tracking I do to capture traffic/behavior (and is completely unnessary for the usage of this site).
+
+I love challenging myself to create code using the absolute most bare-minimum stack possible; utilizing as much native functionality as possible to create beautiful interfaces. 
+
+----------
+
+Name: Dillon Baird
+Role: Full-stack Software Engineer
+Site: https://DillonBaird.io/
+Email: dillon@dillonbaird.io
+
+Site: https://DillonBaird.io/
+Built with: Hugo, Tailwind, HTML, CSS
+
+Thanks to: All the open-source projects that made this site possible.
+
+
+This is a humans.txt file. You can read more about it at http://humanstxt.org/

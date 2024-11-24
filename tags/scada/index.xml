@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCADA on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/scada/</link>
+    <description>Recent content in SCADA on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/scada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From JavaScript to LabVIEW: My Journey into Industrial Automation</title>
+      <link>https://DillonBaird.io/blog/labview/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/labview/</guid>
+      <description>Having dedicated nearly two decades to JavaScript development, my path seemed set in the realm of web technologies. Yet, life has a way of throwing unexpected twists, and one of those for me was discovering LabVIEW. This unanticipated introduction led me to ponder: How might a seasoned web developer, entrenched in the digital world, transition to the tangible, intricate domain of industrial automation? Join me as I narrate my adventure, delving into the nuances, the challenges faced, and a particularly audacious endeavor—automating a boat.</description>
+    </item>
+    
+  </channel>
+</rss>

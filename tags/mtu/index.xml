@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTU on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/mtu/</link>
+    <description>Recent content in MTU on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/mtu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cracking Ethernet’s MTU Mystery</title>
+      <link>https://DillonBaird.io/articles/why-is-mtu-1500/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/why-is-mtu-1500/</guid>
+      <description>&lt;p&gt;Dive into a digital detective story that unravels the enigmatic choice of Ethernet&amp;rsquo;s 1500-byte MTU and how 1500 became the MTU of the internet.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

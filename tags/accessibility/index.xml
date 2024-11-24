@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/accessibility/</link>
+    <description>Recent content in Accessibility on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Accessibility: More than A Lighthouse Score</title>
+      <link>https://DillonBaird.io/blog/the-accessible-web/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/the-accessible-web/</guid>
+      <description>&lt;p&gt;Web accessibility&amp;hellip; kinda like fitness, right? Everybody knows it matters, but too many folks think they&amp;rsquo;re golden just because they&amp;rsquo;ve got a fancy fitness tracker and hit their 10,000 steps a few times a week. Newsflash: that&amp;rsquo;s not gonna cut it, and neither will a perfect Lighthouse score or a shiny new overlay tool.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been around the web dev block a few times, and it seems like everyone&amp;rsquo;s obsessed with these quick fixes&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spearheading ADA / Section 508 Compliance in FinTech</title>
+      <link>https://DillonBaird.io/articles/spearheading-ada-compliance/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/spearheading-ada-compliance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Join me on an ADA Adventure:&lt;/strong&gt; Where complexities become catalysts for change, and the pursuit of compliance evolves into a mission of empowerment and inclusivity in the dynamic landscape of FinTech.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Inclusively: The Right to Digital Accessibility</title>
+      <link>https://DillonBaird.io/articles/universal-digital-accessibility/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/universal-digital-accessibility/</guid>
+      <description>&lt;p&gt;From understanding the background of the ADA to preventing financial liability, we explore the essential knowledge for creating inclusive and accessible digital products.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

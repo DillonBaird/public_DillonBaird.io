@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XReal on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/xreal/</link>
+    <description>Recent content in XReal on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/tags/xreal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XReal Beam - A Mobile Software Engineer&#39;s Best Friend</title>
+      <link>https://DillonBaird.io/blog/xrealbeam/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/xrealbeam/</guid>
+      <description>As a software engineer, I find myself in a perpetual dance with screens, gracefully navigating between lines of code, debugging sessions, and virtual meetings that blur the lines between work and leisure. Whether I&amp;rsquo;m immersing myself in the complexities of programming or unwinding with my favorite YouTube channels, these screens have become an inseparable part of my daily routine, almost an extension of my digital existence. So, when whispers of the XReal Beam, a revolutionary device promising to redefine my screen experience, reached my eager ears, I couldn&amp;rsquo;t help but be drawn in by the intrigue and excitement.</description>
+    </item>
+    
+    <item>
+      <title>Work From Anywhere using the XReal Air AR Glasses</title>
+      <link>https://DillonBaird.io/blog/xrealair/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/xrealair/</guid>
+      <description>&lt;p&gt;From ergonomic benefits to a virtual triple monitor setup, learn how you can make remote work a reality with the XReal Air AR glasses.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

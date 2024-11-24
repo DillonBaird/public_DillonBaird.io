@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on DillonBaird.io</title>
+    <link>https://DillonBaird.io/contact/</link>
+    <description>Recent content in Contact on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://DillonBaird.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://DillonBaird.io/contact/thankyou/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/contact/thankyou/</guid>
+      <description>THANK YOU! I&amp;rsquo;ve received your message and will try my best to get back to you in a timely manner.</description>
+    </item>
+    
+    <item>
+      <title>Join Newsletter</title>
+      <link>https://DillonBaird.io/contact/thankyou2/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/contact/thankyou2/</guid>
+      <description>THANK YOU! You&amp;rsquo;ve successfully subscribed to my newsletter and will now get an email notification whenever I post new content.</description>
+    </item>
+    
+  </channel>
+</rss>

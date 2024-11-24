@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI/UX on DillonBaird.io</title>
+    <link>https://DillonBaird.io/tags/ui/ux/</link>
+    <description>Recent content in UI/UX on DillonBaird.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://DillonBaird.io/tags/ui/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confessions of a Progress Bar Addict: The Ecstasy of Waiting</title>
+      <link>https://DillonBaird.io/blog/progress-bar-addiction/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/blog/progress-bar-addiction/</guid>
+      <description>&lt;p&gt;Hi, my name is Dillon Baird, and I&amp;rsquo;m a progress bar-aholic.&lt;/p&gt;
+&lt;p&gt;There, I said it. It feels good to get that off my chest. It&amp;rsquo;s a problem, I know. But like any true addiction, I can&amp;rsquo;t help myself. Those little bars, those tiny digital beacons of hope, they&amp;rsquo;re my kryptonite.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Inclusively: The Right to Digital Accessibility</title>
+      <link>https://DillonBaird.io/articles/universal-digital-accessibility/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DillonBaird.io/articles/universal-digital-accessibility/</guid>
+      <description>&lt;p&gt;From understanding the background of the ADA to preventing financial liability, we explore the essential knowledge for creating inclusive and accessible digital products.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
