@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tandy on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/tandy/</link>
+    <link>https://dillonbaird.io/tags/tandy/</link>
     <description>Recent content in Tandy on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/tandy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/tandy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How A Tandy 1000 RSX Kickstarted My Career In Software Development</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</link>
+      <link>https://dillonbaird.io/blog/startingwithtandy/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</guid>
+      <guid>https://dillonbaird.io/blog/startingwithtandy/</guid>
       <description>&lt;p&gt;It was 1996 and I was 5 years old in Silicon Valley, in the prime of computer surplus. I just pressed that big beautiful red power button on my newly acquired Tandy 1000 RSX someone just so happened to be throwing away down the street (a fairly regular occurrence with computer hardware at the time).&lt;/p&gt;</description>
     </item>
     

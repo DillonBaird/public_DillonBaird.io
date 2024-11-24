@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/web-design/</link>
+    <link>https://dillonbaird.io/tags/web-design/</link>
     <description>Recent content in Web Design on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NoJS: Stop Using JavaScript When You Don&#39;t Need To</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/nojs/</link>
+      <link>https://dillonbaird.io/blog/nojs/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/nojs/</guid>
+      <guid>https://dillonbaird.io/blog/nojs/</guid>
       <description>Ah, JavaScript! It&amp;rsquo;s the dazzling star of the web development world, capable of transforming static pages into interactive wonders. But have you ever found yourself tangled in lines of JavaScript code, only to realize that you might be overcomplicating things? You&amp;rsquo;re not alone. In our pursuit of dynamic and engaging websites, we often reach for JavaScript—even when we don&amp;rsquo;t need to. In this article, we&amp;rsquo;ll explore the art of minimalism in web development, emphasizing the power of HTML and CSS, and learning when to say &amp;ldquo;No&amp;rdquo; to JavaScript.</description>
     </item>
     

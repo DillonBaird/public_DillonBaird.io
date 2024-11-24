@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FinTech on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/fintech/</link>
+    <link>https://dillonbaird.io/tags/fintech/</link>
     <description>Recent content in FinTech on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spearheading ADA / Section 508 Compliance in FinTech</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/spearheading-ada-compliance/</link>
+      <link>https://dillonbaird.io/articles/spearheading-ada-compliance/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/spearheading-ada-compliance/</guid>
+      <guid>https://dillonbaird.io/articles/spearheading-ada-compliance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Join me on an ADA Adventure:&lt;/strong&gt; Where complexities become catalysts for change, and the pursuit of compliance evolves into a mission of empowerment and inclusivity in the dynamic landscape of FinTech.&lt;/p&gt;</description>
     </item>
     

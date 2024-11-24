@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/</link>
+    <link>https://dillonbaird.io/articles/</link>
     <description>Recent content in Articles on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating the SpaceX Crew Dragon UI in 60 Days</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</link>
+      <link>https://dillonbaird.io/articles/mutantdragon/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</guid>
+      <guid>https://dillonbaird.io/articles/mutantdragon/</guid>
       <description>&lt;p&gt;One developer’s challenge to recreate a conceptual UI/software stack and/with a hardware simulator for the 
 &lt;a href=&#34;https://www.spacex.com/vehicles/dragon/&#34; target=&#34;_blank&#34;&gt;Crew Dragon&lt;/a&gt;
 , in 60 days.&lt;/p&gt;</description>
@@ -20,19 +20,19 @@
     
     <item>
       <title>Multi-WAN Bonding with OpenMPTCProuter</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</link>
+      <link>https://dillonbaird.io/articles/mptcpbonding/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</guid>
+      <guid>https://dillonbaird.io/articles/mptcpbonding/</guid>
       <description>&lt;p&gt;Unlike other solutions that claim to aggregate connections, Multi-Path TCP (MPTCP) actually does. See how I accomplished this using 2 Starlink terminals and multiple cellular hotspots&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Clockwork OrangePi - Creating A Stratum-1 NTP Server</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/stratum-1/</link>
+      <link>https://dillonbaird.io/articles/stratum-1/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/stratum-1/</guid>
+      <guid>https://dillonbaird.io/articles/stratum-1/</guid>
       <description>&lt;!-- ## Understanding Time Synchronization
 
 Time synchronization is a fundamental aspect of modern computing and digital communication. It&#39;s the process of coordinating the clocks of multiple devices to the same time. But why is it so important, and how does it work? Let&#39;s delve deeper into the fascinating world of time synchronization.
@@ -79,37 +79,37 @@ In conclusion, time synchronization is a fundamental aspect of our digital world
     
     <item>
       <title>Understanding the Security Challenges in Event Lighting</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/exploitingdmx/</link>
+      <link>https://dillonbaird.io/articles/exploitingdmx/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/exploitingdmx/</guid>
+      <guid>https://dillonbaird.io/articles/exploitingdmx/</guid>
       <description>&lt;p&gt;Explore the intricacies of event lighting protocols, uncover hidden vulnerabilities, and learn best practices to ensure robust security in event productions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Spearheading ADA / Section 508 Compliance in FinTech</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/spearheading-ada-compliance/</link>
+      <link>https://dillonbaird.io/articles/spearheading-ada-compliance/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/spearheading-ada-compliance/</guid>
+      <guid>https://dillonbaird.io/articles/spearheading-ada-compliance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Join me on an ADA Adventure:&lt;/strong&gt; Where complexities become catalysts for change, and the pursuit of compliance evolves into a mission of empowerment and inclusivity in the dynamic landscape of FinTech.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ensuring Inclusively: The Right to Digital Accessibility</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/universal-digital-accessibility/</link>
+      <link>https://dillonbaird.io/articles/universal-digital-accessibility/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/universal-digital-accessibility/</guid>
+      <guid>https://dillonbaird.io/articles/universal-digital-accessibility/</guid>
       <description>&lt;p&gt;From understanding the background of the ADA to preventing financial liability, we explore the essential knowledge for creating inclusive and accessible digital products.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cracking Ethernet’s MTU Mystery</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</link>
+      <link>https://dillonbaird.io/articles/why-is-mtu-1500/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</guid>
+      <guid>https://dillonbaird.io/articles/why-is-mtu-1500/</guid>
       <description>&lt;p&gt;Dive into a digital detective story that unravels the enigmatic choice of Ethernet&amp;rsquo;s 1500-byte MTU and how 1500 became the MTU of the internet.&lt;/p&gt;</description>
     </item>
     

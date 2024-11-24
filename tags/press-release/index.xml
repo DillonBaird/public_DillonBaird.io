@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Press Release on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/press-release/</link>
+    <link>https://dillonbaird.io/tags/press-release/</link>
     <description>Recent content in Press Release on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/press-release/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/press-release/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Developer Recreates SpaceX&#39;s Crew Dragon UI</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/about/press/mutantdragon/</link>
+      <link>https://dillonbaird.io/about/press/mutantdragon/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/about/press/mutantdragon/</guid>
+      <guid>https://dillonbaird.io/about/press/mutantdragon/</guid>
       <description>San Diego, CA - Software developer Dillon Baird has successfully recreated the user interface (UI) of SpaceX&amp;rsquo;s Crew Dragon spacecraft in just 60 days. The project, called &amp;ldquo;MUTANTdragon,&amp;rdquo; was a personal challenge for Baird to improve his skills and potentially impress the team at SpaceX.
 &amp;ldquo;I&amp;rsquo;m a big fan of SpaceX and the incredible work they are doing to advance space exploration,&amp;rdquo; said Baird. &amp;ldquo;I wanted to challenge myself and see if I could recreate their Crew Dragon UI in a short amount of time, using only my own skills and resources.</description>
     </item>

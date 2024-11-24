@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/internet/</link>
+    <link>https://dillonbaird.io/tags/internet/</link>
     <description>Recent content in Internet on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Confessions of a Progress Bar Addict: The Ecstasy of Waiting</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/progress-bar-addiction/</link>
+      <link>https://dillonbaird.io/blog/progress-bar-addiction/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/progress-bar-addiction/</guid>
+      <guid>https://dillonbaird.io/blog/progress-bar-addiction/</guid>
       <description>&lt;p&gt;Hi, my name is Dillon Baird, and I&amp;rsquo;m a progress bar-aholic.&lt;/p&gt;
 &lt;p&gt;There, I said it. It feels good to get that off my chest. It&amp;rsquo;s a problem, I know. But like any true addiction, I can&amp;rsquo;t help myself. Those little bars, those tiny digital beacons of hope, they&amp;rsquo;re my kryptonite.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multi-WAN Bonding with OpenMPTCProuter</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</link>
+      <link>https://dillonbaird.io/articles/mptcpbonding/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</guid>
+      <guid>https://dillonbaird.io/articles/mptcpbonding/</guid>
       <description>&lt;p&gt;Unlike other solutions that claim to aggregate connections, Multi-Path TCP (MPTCP) actually does. See how I accomplished this using 2 Starlink terminals and multiple cellular hotspots&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cracking Ethernet’s MTU Mystery</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</link>
+      <link>https://dillonbaird.io/articles/why-is-mtu-1500/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/why-is-mtu-1500/</guid>
+      <guid>https://dillonbaird.io/articles/why-is-mtu-1500/</guid>
       <description>&lt;p&gt;Dive into a digital detective story that unravels the enigmatic choice of Ethernet&amp;rsquo;s 1500-byte MTU and how 1500 became the MTU of the internet.&lt;/p&gt;</description>
     </item>
     

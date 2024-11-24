@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starlink on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/starlink/</link>
+    <link>https://dillonbaird.io/tags/starlink/</link>
     <description>Recent content in Starlink on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-WAN Bonding with OpenMPTCProuter</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</link>
+      <link>https://dillonbaird.io/articles/mptcpbonding/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mptcpbonding/</guid>
+      <guid>https://dillonbaird.io/articles/mptcpbonding/</guid>
       <description>&lt;p&gt;Unlike other solutions that claim to aggregate connections, Multi-Path TCP (MPTCP) actually does. See how I accomplished this using 2 Starlink terminals and multiple cellular hotspots&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gear</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/about/gear/</link>
+      <link>https://dillonbaird.io/about/gear/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/about/gear/</guid>
+      <guid>https://dillonbaird.io/about/gear/</guid>
       <description>Current Equipment The equipment I use today is leaps and bound from where I began; After many years attempting success on a very tight budget I&amp;rsquo;d gotten used to achieving what I needed to using the bare minimum hardware, but in recent years I&amp;rsquo;ve chosen to &amp;ldquo;splurge&amp;rdquo; and treat myself to some newer gear, though still never &amp;rsquo;this years model&amp;rsquo;. I&amp;rsquo;m usually fairly flexible on where I&amp;rsquo;m working or what I&amp;rsquo;m working on, and can sometimes frequently change systems used through the week, but for the most part still always gravitate to the following gear:</description>
     </item>
     

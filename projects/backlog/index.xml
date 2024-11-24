@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backlog on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/projects/backlog/</link>
+    <link>https://dillonbaird.io/projects/backlog/</link>
     <description>Recent content in Backlog on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/projects/backlog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dillonbaird.io/projects/backlog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/programming/</link>
+    <link>https://dillonbaird.io/tags/programming/</link>
     <description>Recent content in Programming on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Developer&#39;s Journey With Spacial Computing</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
+      <link>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
+      <guid>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</guid>
       <description>When I first slid on the Apple Vision Pro, I was bracing myself for another overhyped gadget. Instead, what I encountered was a transformative leap into the future of digital interaction. This wasn&amp;rsquo;t merely a high-tech toy; it was a tool that seamlessly wove itself into my daily coding rituals, shattering my preconceived limits of what technology could achieve. From that moment, I was hooked—immersed in a mixed reality that felt both groundbreaking and surprisingly intuitive.</description>
     </item>
     
     <item>
       <title>Coding Across Borders: My Syntax-Agnostic Adventure in Tech</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/syntax-agnostic/</link>
+      <link>https://dillonbaird.io/blog/syntax-agnostic/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/syntax-agnostic/</guid>
+      <guid>https://dillonbaird.io/blog/syntax-agnostic/</guid>
       <description>Embarking on a coding journey is akin to setting sail across uncharted digital waters. My odyssey began with a modest Tandy 1000, leading me through a dynamic array of programming languages, each sculpting my perception of the technological realm. I invite you to join me on this exhilarating expedition as I recount how embracing syntax agnosticism has been pivotal in my growth and versatility amidst the continuously transforming world of software development.</description>
     </item>
     
     <item>
       <title>Why User-Centric Design Makes You A Better Developer (and Boosts ROI)</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</link>
+      <link>https://dillonbaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</guid>
+      <guid>https://dillonbaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve all been there. You&amp;rsquo;re staring at a screen filled with code, lines blurring together like a caffeinated fever dream. You&amp;rsquo;re building this amazing new software, but a nagging question worms its way in:  &amp;ldquo;Would I actually use this thing?&amp;rdquo; More often than not, the answer is a resounding &amp;ldquo;meh&amp;rdquo;. The result? Software that feels like a chore to navigate, an instruction manual masquerading as a user interface. It functions, sure, but with all the personality of a beige office chair.&lt;/p&gt;</description>
     </item>
     

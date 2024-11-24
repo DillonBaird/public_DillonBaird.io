@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LabVIEW on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/labview/</link>
+    <link>https://dillonbaird.io/tags/labview/</link>
     <description>Recent content in LabVIEW on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/labview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/labview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From JavaScript to LabVIEW: My Journey into Industrial Automation</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</link>
+      <link>https://dillonbaird.io/blog/labview/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</guid>
+      <guid>https://dillonbaird.io/blog/labview/</guid>
       <description>Having dedicated nearly two decades to JavaScript development, my path seemed set in the realm of web technologies. Yet, life has a way of throwing unexpected twists, and one of those for me was discovering LabVIEW. This unanticipated introduction led me to ponder: How might a seasoned web developer, entrenched in the digital world, transition to the tangible, intricate domain of industrial automation? Join me as I narrate my adventure, delving into the nuances, the challenges faced, and a particularly audacious endeavor—automating a boat.</description>
     </item>
     

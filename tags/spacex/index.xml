@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SpaceX on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/spacex/</link>
+    <link>https://dillonbaird.io/tags/spacex/</link>
     <description>Recent content in SpaceX on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/spacex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/spacex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Developer&#39;s Journey With Spacial Computing</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
+      <link>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
+      <guid>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</guid>
       <description>When I first slid on the Apple Vision Pro, I was bracing myself for another overhyped gadget. Instead, what I encountered was a transformative leap into the future of digital interaction. This wasn&amp;rsquo;t merely a high-tech toy; it was a tool that seamlessly wove itself into my daily coding rituals, shattering my preconceived limits of what technology could achieve. From that moment, I was hooked—immersed in a mixed reality that felt both groundbreaking and surprisingly intuitive.</description>
     </item>
     
     <item>
       <title>Bringing Outer Space UI/UX Down To Earth</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</link>
+      <link>https://dillonbaird.io/blog/makingmutantdragon/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</guid>
+      <guid>https://dillonbaird.io/blog/makingmutantdragon/</guid>
       <description>What if I could be a part of helping make humans a spacefaring species? As a software engineer, there seemed to be no suitable answer that would take me closer to this big dream. That is until I noticed an open position for a Frontend Engineer at SpaceX and decided to apply. While my initial attempt to join the SpaceX team fell short, I decided not to abandon my dream. Instead, I embarked on an ambitious solo project, intending to refine my skills and reapply in the future.</description>
     </item>
     
     <item>
       <title>From JavaScript to LabVIEW: My Journey into Industrial Automation</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</link>
+      <link>https://dillonbaird.io/blog/labview/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</guid>
+      <guid>https://dillonbaird.io/blog/labview/</guid>
       <description>Having dedicated nearly two decades to JavaScript development, my path seemed set in the realm of web technologies. Yet, life has a way of throwing unexpected twists, and one of those for me was discovering LabVIEW. This unanticipated introduction led me to ponder: How might a seasoned web developer, entrenched in the digital world, transition to the tangible, intricate domain of industrial automation? Join me as I narrate my adventure, delving into the nuances, the challenges faced, and a particularly audacious endeavor—automating a boat.</description>
     </item>
     
     <item>
       <title>Software Developer Recreates SpaceX&#39;s Crew Dragon UI</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/about/press/mutantdragon/</link>
+      <link>https://dillonbaird.io/about/press/mutantdragon/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/about/press/mutantdragon/</guid>
+      <guid>https://dillonbaird.io/about/press/mutantdragon/</guid>
       <description>San Diego, CA - Software developer Dillon Baird has successfully recreated the user interface (UI) of SpaceX&amp;rsquo;s Crew Dragon spacecraft in just 60 days. The project, called &amp;ldquo;MUTANTdragon,&amp;rdquo; was a personal challenge for Baird to improve his skills and potentially impress the team at SpaceX.
 &amp;ldquo;I&amp;rsquo;m a big fan of SpaceX and the incredible work they are doing to advance space exploration,&amp;rdquo; said Baird. &amp;ldquo;I wanted to challenge myself and see if I could recreate their Crew Dragon UI in a short amount of time, using only my own skills and resources.</description>
     </item>
     
     <item>
       <title>Recreating the SpaceX Crew Dragon UI in 60 Days</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</link>
+      <link>https://dillonbaird.io/articles/mutantdragon/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</guid>
+      <guid>https://dillonbaird.io/articles/mutantdragon/</guid>
       <description>&lt;p&gt;One developer’s challenge to recreate a conceptual UI/software stack and/with a hardware simulator for the 
 &lt;a href=&#34;https://www.spacex.com/vehicles/dragon/&#34; target=&#34;_blank&#34;&gt;Crew Dragon&lt;/a&gt;
 , in 60 days.&lt;/p&gt;</description>

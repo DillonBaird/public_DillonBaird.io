@@ -2,343 +2,343 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/</link>
+    <link>https://dillonbaird.io/blog/</link>
     <description>Recent content in Blog on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wireless External Storage With Native Plex Server</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/wd-my-passport-wireless-pro/</link>
+      <link>https://dillonbaird.io/blog/wd-my-passport-wireless-pro/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/wd-my-passport-wireless-pro/</guid>
+      <guid>https://dillonbaird.io/blog/wd-my-passport-wireless-pro/</guid>
       <description>&lt;p&gt;When Apple launched the Vision Pro, it promised a revolution in spatial computing. But for those of us who love to consume and create media, the limited internal storage quickly became a glaring issue. Enter the &lt;strong&gt;WD My Passport Wireless Pro&lt;/strong&gt;, an unassuming device that has transformed my Vision Pro experience. It&amp;rsquo;s more than just an external drive; it&amp;rsquo;s a portable media server, a productivity hub, and a travel essential – all in one sleek package.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Confessions of a Progress Bar Addict: The Ecstasy of Waiting</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/progress-bar-addiction/</link>
+      <link>https://dillonbaird.io/blog/progress-bar-addiction/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/progress-bar-addiction/</guid>
+      <guid>https://dillonbaird.io/blog/progress-bar-addiction/</guid>
       <description>&lt;p&gt;Hi, my name is Dillon Baird, and I&amp;rsquo;m a progress bar-aholic.&lt;/p&gt;
 &lt;p&gt;There, I said it. It feels good to get that off my chest. It&amp;rsquo;s a problem, I know. But like any true addiction, I can&amp;rsquo;t help myself. Those little bars, those tiny digital beacons of hope, they&amp;rsquo;re my kryptonite.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Solving Custom 404 Error Pages with Cloudflare Workers</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</link>
+      <link>https://dillonbaird.io/blog/custom-404-error-page-using-cloudflare-workers/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</guid>
+      <guid>https://dillonbaird.io/blog/custom-404-error-page-using-cloudflare-workers/</guid>
       <description>&lt;p&gt;Ever had one of those days where nothing seems to go right? You’re trying to make your website perfect, but instead, it’s like the universe is playing a cruel joke on you. That was me recently, tangled in a web (pun intended) of frustrations while trying to set up a custom 404 error page for my website. Hosted with Docker and NGINX, my site stubbornly displayed the default NGINX &amp;lsquo;Page Not Found&amp;rsquo; message instead of my sleek, custom 404 page. After countless failed attempts to fix it, I decided to call in reinforcements—Cloudflare Workers. If you’re nodding your head in sympathy, keep reading. This post is for you.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ollama Unleashed: The DIY LLM Powerhouse on Your Local Machine</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ollama/</link>
+      <link>https://dillonbaird.io/blog/ollama/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ollama/</guid>
+      <guid>https://dillonbaird.io/blog/ollama/</guid>
       <description>&lt;p&gt;Large language models (LLMs) are powerful tools, but running them on your own can be a challenge. &lt;strong&gt;Ollama&lt;/strong&gt; simplifies this process, allowing you to run these advanced models directly on your local machine, without the need for expensive cloud services or specialized hardware. With Ollama, you gain complete control over your AI tools. Customize them to your specific needs and experiment freely without worrying about high costs. Plus, you can break free from reliance on cloud providers.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>When Best Practices Aren&#39;t Always Best: Pragmatic Coding</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/best-practices-arent-always-best/</link>
+      <link>https://dillonbaird.io/blog/best-practices-arent-always-best/</link>
       <pubDate>Wed, 24 Apr 2024 07:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/best-practices-arent-always-best/</guid>
+      <guid>https://dillonbaird.io/blog/best-practices-arent-always-best/</guid>
       <description>I’ve encountered countless scenarios where sticking rigidly to best practices wasn’t the optimal path. These experiences have underscored the value of flexibility and its critical role in navigating complex software environments. Today, I&amp;rsquo;m eager to share insights on when to adhere to these practices and when deviating can enhance innovation and ensure project success. This guide explores how adopting a more adaptable approach can enhance team dynamics and improve project outcomes.</description>
     </item>
     
     <item>
       <title>The Resurgence of Static Sites: Why Hugo Powers My Blog</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/resurgence-of-static-site-generators/</link>
+      <link>https://dillonbaird.io/blog/resurgence-of-static-site-generators/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/resurgence-of-static-site-generators/</guid>
+      <guid>https://dillonbaird.io/blog/resurgence-of-static-site-generators/</guid>
       <description>Amidst the ever-evolving landscape of web development, where complexity often overshadows the essential goals of efficiency, security, and scalability, static site generators (SSGs) emerge as pillars of simplicity. These powerful tools are not only rejuvenating our approach to website creation but are also guiding us toward more sustainable, manageable, and high-performance web solutions. Embark on a comprehensive exploration of SSGs, uncovering their revival, robust security features, and ingenious ways they accommodate dynamic content capabilities.</description>
     </item>
     
     <item>
       <title>A Developer&#39;s Journey With Spacial Computing</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</link>
+      <link>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/apple-vision-pro-developer-journey/</guid>
+      <guid>https://dillonbaird.io/blog/apple-vision-pro-developer-journey/</guid>
       <description>When I first slid on the Apple Vision Pro, I was bracing myself for another overhyped gadget. Instead, what I encountered was a transformative leap into the future of digital interaction. This wasn&amp;rsquo;t merely a high-tech toy; it was a tool that seamlessly wove itself into my daily coding rituals, shattering my preconceived limits of what technology could achieve. From that moment, I was hooked—immersed in a mixed reality that felt both groundbreaking and surprisingly intuitive.</description>
     </item>
     
     <item>
       <title>The Inside Scoop on Pixel Tracking and the Birth of NanoTrack</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/nanotrack/</link>
+      <link>https://dillonbaird.io/blog/nanotrack/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/nanotrack/</guid>
+      <guid>https://dillonbaird.io/blog/nanotrack/</guid>
       <description>In the ever-evolving digital landscape, the unveiling of invisible technologies like pixel tracking has sparked conversations about privacy, ethics, and the invisible threads connecting our online interactions. Each click, every opened email, and every page browsed, weaves into a rich mosaic of data exchange. As we embark on this exploration, the creation of NanoTrack emerges as a pivotal moment in rethinking how we navigate the complex web of digital analytics.</description>
     </item>
     
     <item>
       <title>Web Accessibility: More than A Lighthouse Score</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/the-accessible-web/</link>
+      <link>https://dillonbaird.io/blog/the-accessible-web/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/the-accessible-web/</guid>
+      <guid>https://dillonbaird.io/blog/the-accessible-web/</guid>
       <description>&lt;p&gt;Web accessibility&amp;hellip; kinda like fitness, right? Everybody knows it matters, but too many folks think they&amp;rsquo;re golden just because they&amp;rsquo;ve got a fancy fitness tracker and hit their 10,000 steps a few times a week. Newsflash: that&amp;rsquo;s not gonna cut it, and neither will a perfect Lighthouse score or a shiny new overlay tool.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been around the web dev block a few times, and it seems like everyone&amp;rsquo;s obsessed with these quick fixes&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Embracing the Illusion: Our Desire to Humanize AI, and Its Consequences</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</link>
+      <link>https://dillonbaird.io/blog/embracing-the-illusion/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</guid>
+      <guid>https://dillonbaird.io/blog/embracing-the-illusion/</guid>
       <description>As I explore the world of AI, I sometimes find myself in a role I didn&amp;rsquo;t expect: part-digital therapist, part-coach. It was surprising to see how these AI systems at first seemed to react to encouragement or feedback, similar to coaching a talented athlete. This experience was more than just learning about what AI can do. It was a window into our innate desire as social beings to connect with and humanize our technological creations, no matter how sophisticated their underlying code may be.</description>
     </item>
     
     <item>
       <title>Coding Across Borders: My Syntax-Agnostic Adventure in Tech</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/syntax-agnostic/</link>
+      <link>https://dillonbaird.io/blog/syntax-agnostic/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/syntax-agnostic/</guid>
+      <guid>https://dillonbaird.io/blog/syntax-agnostic/</guid>
       <description>Embarking on a coding journey is akin to setting sail across uncharted digital waters. My odyssey began with a modest Tandy 1000, leading me through a dynamic array of programming languages, each sculpting my perception of the technological realm. I invite you to join me on this exhilarating expedition as I recount how embracing syntax agnosticism has been pivotal in my growth and versatility amidst the continuously transforming world of software development.</description>
     </item>
     
     <item>
       <title>Rubber Duck Debugging: How To Talk To Your Duck</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/how-to-talk-to-your-duck/</link>
+      <link>https://dillonbaird.io/blog/how-to-talk-to-your-duck/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/how-to-talk-to-your-duck/</guid>
+      <guid>https://dillonbaird.io/blog/how-to-talk-to-your-duck/</guid>
       <description>&lt;p&gt;Picture this: you&amp;rsquo;re staring blankly at a screen, the blinking cursor mocking you as your code refuses to cooperate. Your brain feels like a scrambled egg, and you&amp;rsquo;re one error message away from hurling your keyboard out the window.  Don&amp;rsquo;t despair! There&amp;rsquo;s a secret weapon that&amp;rsquo;s as silly as it is effective: the mighty rubber duck.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Why User-Centric Design Makes You A Better Developer (and Boosts ROI)</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</link>
+      <link>https://dillonbaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</guid>
+      <guid>https://dillonbaird.io/blog/why-user-centric-design-makes-you-a-better-developer/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve all been there. You&amp;rsquo;re staring at a screen filled with code, lines blurring together like a caffeinated fever dream. You&amp;rsquo;re building this amazing new software, but a nagging question worms its way in:  &amp;ldquo;Would I actually use this thing?&amp;rdquo; More often than not, the answer is a resounding &amp;ldquo;meh&amp;rdquo;. The result? Software that feels like a chore to navigate, an instruction manual masquerading as a user interface. It functions, sure, but with all the personality of a beige office chair.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Echoes of a Digital Dawn - A Poetic Ode to our Tech-Paced Life</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/echoes-of-a-digital-dawn/</link>
+      <link>https://dillonbaird.io/blog/echoes-of-a-digital-dawn/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/echoes-of-a-digital-dawn/</guid>
+      <guid>https://dillonbaird.io/blog/echoes-of-a-digital-dawn/</guid>
       <description>In &amp;ldquo;Echoes of a Digital Dawn,&amp;rdquo; I explore the evolution of technology and its impact on creativity. It&amp;rsquo;s a nostalgic journey from the simplicity of MS Paint to today&amp;rsquo;s AI-driven world. The poem contrasts the patience of the early digital era with the instant gratification of the present. It reminisces about dial-up tones and floppy disks, reflecting on how these elements shaped our experiences. The poem underscores the importance of the human touch amidst technology&amp;rsquo;s rapid advancement, advocating for a balance between digital progress and the creative spirit.</description>
     </item>
     
     <item>
       <title>The 2024 Tech Forecast: Pioneering Tech Redefining Our World</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/2024-tech-forcast/</link>
+      <link>https://dillonbaird.io/blog/2024-tech-forcast/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/2024-tech-forcast/</guid>
+      <guid>https://dillonbaird.io/blog/2024-tech-forcast/</guid>
       <description>I&amp;rsquo;m diving into 2024 with eyes wide open for the tech that&amp;rsquo;s got me buzzing. This isn&amp;rsquo;t just any tech roundup; it&amp;rsquo;s a personal tour through the innovations that I&amp;rsquo;m stoked about – the stuff that&amp;rsquo;s pushing boundaries and shaping what&amp;rsquo;s next. Whether it&amp;rsquo;s the latest in AI, the next leap in space tech, or health innovations that are changing the game, I&amp;rsquo;m here to share my take on what these advancements mean for us and the world.</description>
     </item>
     
     <item>
       <title>Agile Software Development: Taming the Chaos (or Just Adding More?)</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/agile/</link>
+      <link>https://dillonbaird.io/blog/agile/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/agile/</guid>
+      <guid>https://dillonbaird.io/blog/agile/</guid>
       <description>&lt;p&gt;As a seasoned software engineer (and fellow survivor of the code trenches), I&amp;rsquo;m sure you&amp;rsquo;ve seen development methodologies come and go. We all remember the rigid, documentation-heavy days of Waterfall, where a project plan was etched in stone like the Ten Commandments, and any change required an act of Congress.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Super73 RX &amp; Apple CarPlay: A Guide to E-Bike Modernization</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/carplay73/</link>
+      <link>https://dillonbaird.io/blog/carplay73/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/carplay73/</guid>
+      <guid>https://dillonbaird.io/blog/carplay73/</guid>
       <description>I&amp;rsquo;m a software engineer with a two-decade-long passion for weaving technology into the fabric of everyday life. My latest endeavor? Integrating an Apple CarPlay display into my Super73 RX eBike. Ready to take your Super73 RX on a tech transformation journey? This guide is not just about adding a gadget; it&amp;rsquo;s about revolutionizing your ride with smart tech, blending the adventurous spirit of e-biking with the advanced features of modern technology.</description>
     </item>
     
     <item>
       <title>A Dive into the Digital Artistry Revolution with DALL·E</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</link>
+      <link>https://dillonbaird.io/blog/ai-wallpapers/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ai-wallpapers/</guid>
+      <guid>https://dillonbaird.io/blog/ai-wallpapers/</guid>
       <description>If you&amp;rsquo;ve ever ventured through any of my blog in the past, you might have noticed the original and unique images — from the whimsically quirky to the ethereally abstract — that I use to pepper my articles. Allow me to introduce you to the mastermind: DALL·E, a marvel from OpenAI&amp;rsquo;s labs. This neural network isn&amp;rsquo;t just another tool; it&amp;rsquo;s a digital maestro, synthesizing visuals from mere textual descriptions. It&amp;rsquo;s the fusion of code, creativity, and a hint of AI magic that brings those intriguing images to life on my site.</description>
     </item>
     
     <item>
       <title>Born With The Web: Growing Up in a Digital Dawn</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/first-clicks/</link>
+      <link>https://dillonbaird.io/blog/first-clicks/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/first-clicks/</guid>
+      <guid>https://dillonbaird.io/blog/first-clicks/</guid>
       <description>The World Wide Web and I have something in common: We both began our journey in 1991. While I&amp;rsquo;m just a dude in a vast world, and the internet has transformed global communication, it&amp;rsquo;s a humble thought to realize we&amp;rsquo;ve grown side by side. We might be seen as products of the same era, tracing parallel paths through time. As we stroll through the corridors of the past, prepare to journey through stories that resonate with nostalgia, laughter, tender moments, and of course, the unmistakable sound of dial-up—a symbol of our shared digital beginnings.</description>
     </item>
     
     <item>
       <title>How E-Ink is Revolutionizing Our Digital World and Why You&#39;re Missing Out!</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/eink/</link>
+      <link>https://dillonbaird.io/blog/eink/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/eink/</guid>
+      <guid>https://dillonbaird.io/blog/eink/</guid>
       <description>Diving into a digital read can be a mixed bag. There you are, comfy in a quiet corner of your home, wrapped in your go-to blanket, ready for some undisturbed reading. You turn on your LCD tablet and, suddenly, it&amp;rsquo;s like you&amp;rsquo;re in a face-off with an overly bright flashlight. Then, switch the scene to reading outside on a sunny day. Instead of getting lost in your story, you&amp;rsquo;re wrestling with the sun&amp;rsquo;s glare bouncing off the screen.</description>
     </item>
     
     <item>
       <title>Solo, Not Siloed: Navigating the AI Frontier in Development</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</link>
+      <link>https://dillonbaird.io/blog/solo-not-siloed/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</guid>
+      <guid>https://dillonbaird.io/blog/solo-not-siloed/</guid>
       <description>The world of coding often paints a picture of intense late-night debugging sessions, relentless coding marathons, and the unparalleled joy of a successful deployment. My journey began in the cocoon of solitude, where every line of code was a tango between imagination and logic, often with only my trusty rubber duck as a confidant. However, as I honed my craft, I seamlessly transitioned into larger, team-based roles. Taking on the mantle of a Software Engineering Lead, I found my stride, collaborating with a dynamic team of professionals.</description>
     </item>
     
     <item>
       <title>NoJS: Stop Using JavaScript When You Don&#39;t Need To</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/nojs/</link>
+      <link>https://dillonbaird.io/blog/nojs/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/nojs/</guid>
+      <guid>https://dillonbaird.io/blog/nojs/</guid>
       <description>Ah, JavaScript! It&amp;rsquo;s the dazzling star of the web development world, capable of transforming static pages into interactive wonders. But have you ever found yourself tangled in lines of JavaScript code, only to realize that you might be overcomplicating things? You&amp;rsquo;re not alone. In our pursuit of dynamic and engaging websites, we often reach for JavaScript—even when we don&amp;rsquo;t need to. In this article, we&amp;rsquo;ll explore the art of minimalism in web development, emphasizing the power of HTML and CSS, and learning when to say &amp;ldquo;No&amp;rdquo; to JavaScript.</description>
     </item>
     
     <item>
       <title>XReal Beam - A Mobile Software Engineer&#39;s Best Friend</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/xrealbeam/</link>
+      <link>https://dillonbaird.io/blog/xrealbeam/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/xrealbeam/</guid>
+      <guid>https://dillonbaird.io/blog/xrealbeam/</guid>
       <description>As a software engineer, I find myself in a perpetual dance with screens, gracefully navigating between lines of code, debugging sessions, and virtual meetings that blur the lines between work and leisure. Whether I&amp;rsquo;m immersing myself in the complexities of programming or unwinding with my favorite YouTube channels, these screens have become an inseparable part of my daily routine, almost an extension of my digital existence. So, when whispers of the XReal Beam, a revolutionary device promising to redefine my screen experience, reached my eager ears, I couldn&amp;rsquo;t help but be drawn in by the intrigue and excitement.</description>
     </item>
     
     <item>
       <title>The New 15&#34; MacBook Air M2 Has Ruined My Life - A Letter to Apple</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/dearapple/</link>
+      <link>https://dillonbaird.io/blog/dearapple/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/dearapple/</guid>
+      <guid>https://dillonbaird.io/blog/dearapple/</guid>
       <description>In this light-hearted open letter to Apple, I recount the unexpected ways this mighty machine has disrupted my life of laid-back leisure. From its mind-boggling multitasking capabilities and lightning-fast speed to its dazzling Retina display, the MacBook Air M2 has transformed my digital existence. You see, this sleek and powerful creation from Apple has managed to turn my world upside down, and I can&amp;rsquo;t help but share my mixed feelings about it.</description>
     </item>
     
     <item>
       <title>Rediscovering the Power of Graphing Calculators</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/calculators-in-2023/</link>
+      <link>https://dillonbaird.io/blog/calculators-in-2023/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/calculators-in-2023/</guid>
+      <guid>https://dillonbaird.io/blog/calculators-in-2023/</guid>
       <description>Picture this: A regular Thursday, my desk scattered with lines of code, my mind deep in the digital realm. Suddenly, a blast from the past interrupted my thoughts: what if I revisited the world of graphing calculators? Yes, those chunky, old-school gadgets we once deemed essential. As I delved deeper into this nostalgic quest, the lines between past and present began to blur. Intrigued? Let&amp;rsquo;s embark on this adventure and uncover why the HP Prime became my newest obsession.</description>
     </item>
     
     <item>
       <title>The Hidden Dangers of IoT: Shadow Devices</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/shadowiot/</link>
+      <link>https://dillonbaird.io/blog/shadowiot/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/shadowiot/</guid>
+      <guid>https://dillonbaird.io/blog/shadowiot/</guid>
       <description>Ah, the Internet of Things (IoT)! A realm where your fridge chats with your grocery store and traffic lights gossip with GPS systems to streamline your commute. But lurking behind these conveniences is a less talked about, somewhat sneaky phenomenon: The Shadow IoT. As someone who&amp;rsquo;s spent decades probing, testing, and sometimes breaking into systems (ethically, of course), I&amp;rsquo;ve seen firsthand how the rapid proliferation of IoT devices has reshaped the cybersecurity landscape.</description>
     </item>
     
     <item>
       <title>Letting Machines Do The Writing: How ChatGPT Helped Me Become A PR &#34;Pro&#34;</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</link>
+      <link>https://dillonbaird.io/blog/chatgpt/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</guid>
+      <guid>https://dillonbaird.io/blog/chatgpt/</guid>
       <description>I recently just learned about ChatGPT and GPT-3, two powerful Artificial Intelligence technology tools. And I&amp;rsquo;m incredibly impressed with what it can do. I wanted to try using it for something that was outside of my usual skillset as a software developer, so I decided to use ChatGPT on my website to generate press releases about recent projects or milestone events. Before this project, the thought of writing a press release had never crossed my mind – not because I didn&amp;rsquo;t want to but because it&amp;rsquo;s usually not something developers are expected to have skills in.</description>
     </item>
     
     <item>
       <title>Work From Anywhere using the XReal Air AR Glasses</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/xrealair/</link>
+      <link>https://dillonbaird.io/blog/xrealair/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/xrealair/</guid>
+      <guid>https://dillonbaird.io/blog/xrealair/</guid>
       <description>&lt;p&gt;From ergonomic benefits to a virtual triple monitor setup, learn how you can make remote work a reality with the XReal Air AR glasses.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Myth of Secure: Achieving Security, Not False Assurances</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/secureisaverb/</link>
+      <link>https://dillonbaird.io/blog/secureisaverb/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/secureisaverb/</guid>
+      <guid>https://dillonbaird.io/blog/secureisaverb/</guid>
       <description>It&amp;rsquo;s no surprise that many people today place a high priority on security. In light of the increasing number of data breaches and cyberattacks, it&amp;rsquo;s no wonder so many people worry about protecting their information. As it turns out, there are still some misconceptions about what &amp;ldquo;secure&amp;rdquo; really means. Despite the obvious need for improved security, many people still don&amp;rsquo;t understand what it takes to achieve true safety, leaving them vulnerable to malicious activity.</description>
     </item>
     
     <item>
       <title>Bringing Outer Space UI/UX Down To Earth</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</link>
+      <link>https://dillonbaird.io/blog/makingmutantdragon/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</guid>
+      <guid>https://dillonbaird.io/blog/makingmutantdragon/</guid>
       <description>What if I could be a part of helping make humans a spacefaring species? As a software engineer, there seemed to be no suitable answer that would take me closer to this big dream. That is until I noticed an open position for a Frontend Engineer at SpaceX and decided to apply. While my initial attempt to join the SpaceX team fell short, I decided not to abandon my dream. Instead, I embarked on an ambitious solo project, intending to refine my skills and reapply in the future.</description>
     </item>
     
     <item>
       <title>From JavaScript to LabVIEW: My Journey into Industrial Automation</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</link>
+      <link>https://dillonbaird.io/blog/labview/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/labview/</guid>
+      <guid>https://dillonbaird.io/blog/labview/</guid>
       <description>Having dedicated nearly two decades to JavaScript development, my path seemed set in the realm of web technologies. Yet, life has a way of throwing unexpected twists, and one of those for me was discovering LabVIEW. This unanticipated introduction led me to ponder: How might a seasoned web developer, entrenched in the digital world, transition to the tangible, intricate domain of industrial automation? Join me as I narrate my adventure, delving into the nuances, the challenges faced, and a particularly audacious endeavor—automating a boat.</description>
     </item>
     
     <item>
       <title>Restoring My Original iPod: A Nostalgic Dive into Digital Independence</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/ipod-refurb/</link>
+      <link>https://dillonbaird.io/blog/ipod-refurb/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/ipod-refurb/</guid>
+      <guid>https://dillonbaird.io/blog/ipod-refurb/</guid>
       <description>In a world dominated by streaming and intangible media, the allure of tangible memories beckons. Dive into a journey of iPod nostalgia, innovation, and self-reliance as we resurrect the iconic iPod Video. This iPod restoration isn&amp;rsquo;t just technical; it&amp;rsquo;s a reflection on our evolving relationship with technology, music, and the tangible artifacts of our past. Whether you&amp;rsquo;re a tech enthusiast, a music lover, or someone seeking digital independence, this article offers a blend of personal insights, a detailed tutorial, and a broader commentary on the significance of reclaiming our digital artifacts.</description>
     </item>
     
     <item>
       <title>&#34;Hey Siri, Delete All Alarms&#34;: How I Reclaimed My iPhone Clock Back</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/iphone-alarms/</link>
+      <link>https://dillonbaird.io/blog/iphone-alarms/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/iphone-alarms/</guid>
+      <guid>https://dillonbaird.io/blog/iphone-alarms/</guid>
       <description>Let&amp;rsquo;s face it, we&amp;rsquo;ve all been there — our iPhone clock app overrun with a forest of alarms, each one set for some forgotten task or quick nap. Trying to prune this unwieldy growth one by one is as tedious as it gets. But what if there was a secret command, a magic spell if you will, that could make them all vanish in a blink? Buckle up as I recount my journey through alarm chaos, a humorous poke at Apple&amp;rsquo;s quirks, and the ultimate discovery of an invaluable iPhone life hack.</description>
     </item>
     
     <item>
       <title>Social Media Hiatus: Regularly Purging My Life Of Unnecessary Distractions</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/socialmediahiatus/</link>
+      <link>https://dillonbaird.io/blog/socialmediahiatus/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/socialmediahiatus/</guid>
+      <guid>https://dillonbaird.io/blog/socialmediahiatus/</guid>
       <description>&lt;p&gt;In recent years, taking a social media hiatus has become an increasingly popular trend. As life becomes more chaotic with the rise of technology, people are looking for ways to disconnect from the world and escape from digital noise. This is especially true for those who feel overwhelmed by their online presence or are looking to reduce distractions in their everyday lives.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Setting Sail For Success: Working Remotely From A Motor Yacht</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/workremote/</link>
+      <link>https://dillonbaird.io/blog/workremote/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/workremote/</guid>
+      <guid>https://dillonbaird.io/blog/workremote/</guid>
       <description>In the ever-evolving landscape of the digital age, remote work has taken on new dimensions, pushing the boundaries of what&amp;rsquo;s possible. Allow me to introduce myself - I&amp;rsquo;m Dillon Baird, a versatile professional who wears many hats, including full-stack software engineer, UI/UX expert, systems architect, graphic designer, security researcher, embedded systems engineer, consultant and more! But what sets my remote work experience apart from the norm is my unconventional office space: a 65&amp;rsquo; motor yacht named M/Y Antigua.</description>
     </item>
     
     <item>
       <title>Access 95 - The Atrocity That Taught Me About Relational Databases</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</link>
+      <link>https://dillonbaird.io/blog/msaccess/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</guid>
+      <guid>https://dillonbaird.io/blog/msaccess/</guid>
       <description>&lt;p&gt;In the realm of retro software, Microsoft Access for Windows 95 holds a special place in my heart. It may seem surprising, but this clunky yet somehow elegant application played a pivotal role in shaping my understanding of relational databases and kickstarting my career in software development. Let me take you on a journey back to the days of Windows 95, when I first crossed paths with Access.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>How A Tandy 1000 RSX Kickstarted My Career In Software Development</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</link>
+      <link>https://dillonbaird.io/blog/startingwithtandy/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/startingwithtandy/</guid>
+      <guid>https://dillonbaird.io/blog/startingwithtandy/</guid>
       <description>&lt;p&gt;It was 1996 and I was 5 years old in Silicon Valley, in the prime of computer surplus. I just pressed that big beautiful red power button on my newly acquired Tandy 1000 RSX someone just so happened to be throwing away down the street (a fairly regular occurrence with computer hardware at the time).&lt;/p&gt;</description>
     </item>
     

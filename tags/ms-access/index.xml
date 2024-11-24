@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MS Access on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/ms-access/</link>
+    <link>https://dillonbaird.io/tags/ms-access/</link>
     <description>Recent content in MS Access on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/ms-access/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/ms-access/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Access 95 - The Atrocity That Taught Me About Relational Databases</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</link>
+      <link>https://dillonbaird.io/blog/msaccess/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/msaccess/</guid>
+      <guid>https://dillonbaird.io/blog/msaccess/</guid>
       <description>&lt;p&gt;In the realm of retro software, Microsoft Access for Windows 95 holds a special place in my heart. It may seem surprising, but this clunky yet somehow elegant application played a pivotal role in shaping my understanding of relational databases and kickstarting my career in software development. Let me take you on a journey back to the days of Windows 95, when I first crossed paths with Access.&lt;/p&gt;</description>
     </item>
     

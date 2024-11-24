@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amateur Radio on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/amateur-radio/</link>
+    <link>https://dillonbaird.io/tags/amateur-radio/</link>
     <description>Recent content in Amateur Radio on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/amateur-radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/amateur-radio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Albatross</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/projects/mesh-nautic/</link>
+      <link>https://dillonbaird.io/projects/mesh-nautic/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/projects/mesh-nautic/</guid>
+      <guid>https://dillonbaird.io/projects/mesh-nautic/</guid>
       <description>This is a series landing page that will link to all other HAM radio articles.</description>
     </item>
     

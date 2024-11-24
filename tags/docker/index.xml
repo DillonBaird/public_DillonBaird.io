@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/docker/</link>
+    <link>https://dillonbaird.io/tags/docker/</link>
     <description>Recent content in Docker on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving Custom 404 Error Pages with Cloudflare Workers</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</link>
+      <link>https://dillonbaird.io/blog/custom-404-error-page-using-cloudflare-workers/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/custom-404-error-page-using-cloudflare-workers/</guid>
+      <guid>https://dillonbaird.io/blog/custom-404-error-page-using-cloudflare-workers/</guid>
       <description>&lt;p&gt;Ever had one of those days where nothing seems to go right? You’re trying to make your website perfect, but instead, it’s like the universe is playing a cruel joke on you. That was me recently, tangled in a web (pun intended) of frustrations while trying to set up a custom 404 error page for my website. Hosted with Docker and NGINX, my site stubbornly displayed the default NGINX &amp;lsquo;Page Not Found&amp;rsquo; message instead of my sleek, custom 404 page. After countless failed attempts to fix it, I decided to call in reinforcements—Cloudflare Workers. If you’re nodding your head in sympathy, keep reading. This post is for you.&lt;/p&gt;</description>
     </item>
     

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChatGPT on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/chatgpt/</link>
+    <link>https://dillonbaird.io/tags/chatgpt/</link>
     <description>Recent content in ChatGPT on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Embracing the Illusion: Our Desire to Humanize AI, and Its Consequences</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</link>
+      <link>https://dillonbaird.io/blog/embracing-the-illusion/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/embracing-the-illusion/</guid>
+      <guid>https://dillonbaird.io/blog/embracing-the-illusion/</guid>
       <description>As I explore the world of AI, I sometimes find myself in a role I didn&amp;rsquo;t expect: part-digital therapist, part-coach. It was surprising to see how these AI systems at first seemed to react to encouragement or feedback, similar to coaching a talented athlete. This experience was more than just learning about what AI can do. It was a window into our innate desire as social beings to connect with and humanize our technological creations, no matter how sophisticated their underlying code may be.</description>
     </item>
     
     <item>
       <title>Solo, Not Siloed: Navigating the AI Frontier in Development</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</link>
+      <link>https://dillonbaird.io/blog/solo-not-siloed/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/solo-not-siloed/</guid>
+      <guid>https://dillonbaird.io/blog/solo-not-siloed/</guid>
       <description>The world of coding often paints a picture of intense late-night debugging sessions, relentless coding marathons, and the unparalleled joy of a successful deployment. My journey began in the cocoon of solitude, where every line of code was a tango between imagination and logic, often with only my trusty rubber duck as a confidant. However, as I honed my craft, I seamlessly transitioned into larger, team-based roles. Taking on the mantle of a Software Engineering Lead, I found my stride, collaborating with a dynamic team of professionals.</description>
     </item>
     
     <item>
       <title>Letting Machines Do The Writing: How ChatGPT Helped Me Become A PR &#34;Pro&#34;</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</link>
+      <link>https://dillonbaird.io/blog/chatgpt/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/chatgpt/</guid>
+      <guid>https://dillonbaird.io/blog/chatgpt/</guid>
       <description>I recently just learned about ChatGPT and GPT-3, two powerful Artificial Intelligence technology tools. And I&amp;rsquo;m incredibly impressed with what it can do. I wanted to try using it for something that was outside of my usual skillset as a software developer, so I decided to use ChatGPT on my website to generate press releases about recent projects or milestone events. Before this project, the thought of writing a press release had never crossed my mind – not because I didn&amp;rsquo;t want to but because it&amp;rsquo;s usually not something developers are expected to have skills in.</description>
     </item>
     

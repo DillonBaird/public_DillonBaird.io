@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VueJs on DillonBaird.io</title>
-    <link>https://dillonbaird.github.io/public_DillonBaird.io/tags/vuejs/</link>
+    <link>https://dillonbaird.io/tags/vuejs/</link>
     <description>Recent content in VueJs on DillonBaird.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.github.io/public_DillonBaird.io/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dillonbaird.io/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bringing Outer Space UI/UX Down To Earth</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</link>
+      <link>https://dillonbaird.io/blog/makingmutantdragon/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/blog/makingmutantdragon/</guid>
+      <guid>https://dillonbaird.io/blog/makingmutantdragon/</guid>
       <description>What if I could be a part of helping make humans a spacefaring species? As a software engineer, there seemed to be no suitable answer that would take me closer to this big dream. That is until I noticed an open position for a Frontend Engineer at SpaceX and decided to apply. While my initial attempt to join the SpaceX team fell short, I decided not to abandon my dream. Instead, I embarked on an ambitious solo project, intending to refine my skills and reapply in the future.</description>
     </item>
     
     <item>
       <title>Recreating the SpaceX Crew Dragon UI in 60 Days</title>
-      <link>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</link>
+      <link>https://dillonbaird.io/articles/mutantdragon/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dillonbaird.github.io/public_DillonBaird.io/articles/mutantdragon/</guid>
+      <guid>https://dillonbaird.io/articles/mutantdragon/</guid>
       <description>&lt;p&gt;One developer’s challenge to recreate a conceptual UI/software stack and/with a hardware simulator for the 
 &lt;a href=&#34;https://www.spacex.com/vehicles/dragon/&#34; target=&#34;_blank&#34;&gt;Crew Dragon&lt;/a&gt;
 , in 60 days.&lt;/p&gt;</description>
